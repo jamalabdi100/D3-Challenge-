@@ -4,7 +4,7 @@
 
 ## You can access site by clicking on this link:
 
-https://jamalabdi100.github.io/D3-Challenge-/index.html
+https://jamalabdi100.github.io/D3-challenge-/index.html
 
 ## Background
 
